@@ -24,6 +24,7 @@ public class FoodListApp {
                     "Dosa",
                     "Biryani",
                     "Idli"
+                    "Rajma"
                 };
 
                 // List inside a scrollable pane
